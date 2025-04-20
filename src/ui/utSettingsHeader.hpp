@@ -1,5 +1,5 @@
 #pragma once
-#include <Geode/loader/SettingNodes.hpp>
+#include <Geode/loader/SettingNode.hpp>
 using namespace geode::prelude;
 
 class HeaderValue;
